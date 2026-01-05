@@ -1,6 +1,6 @@
 # --- 관심 종목 리스트 (TICKERS 변수가 반드시 있어야 함) ---
 TICKERS = [
-    "PLTR", "GOOGL", "CEG", "AAPL", "COIN"
+    "PLTR", "GOOGL", "CEG", "AAPL", "COIN",
     "AMZN", "TSLA", "META", "MELI", "SMH", "XLU" 
 ]
 
@@ -17,4 +17,5 @@ RSI_OVERBOUGHT = 70  # 강력 매도 기준
 MFI_STRONG = 40      # 강력 매수 MFI
 
 MFI_WATCH = 55       # 매수 관찰 MFI
+
 
